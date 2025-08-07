@@ -1,0 +1,46 @@
+
+        label{
+            display: block; 
+            margin-top: 10px;
+        }
+        section{
+            border: none;
+            width:175px;
+            padding: 15px;
+            border-radius: 8px;
+            background-color:grey;
+            color: black;
+            cursor:pointer;
+        }
+        body{
+            font-family: sans-serif;
+        }
+        input{
+            background-color: white;
+            border:1px solid azure;
+            border-radius: 5px;
+            color:blue;
+
+        }
+    .batMan{
+            width: 150px;
+            height: 30px;
+            color:white;
+            background-color: green;
+            border-radius: 5px;
+            border: 1px solid black;
+            margin-top: 5px;
+            cursor: pointer;
+        }
+
+    .superMan{
+        width: 150px;
+        height: 30px;
+        color: white;
+        background-color: blue;
+        background-size: cover;
+        border-radius: 5px;
+        border: 1px solid black;
+        margin-top: 5px ;
+    }
+  
